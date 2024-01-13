@@ -1,9 +1,132 @@
-<mxfile host="app.diagrams.net" modified="2024-01-13T17:05:42.940Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" version="22.1.18" etag="s9bQr_GDTnKwAPZPx3xu" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-13T18:29:10.700Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="3P9bGuRSc4aKlhfJWqNs" version="22.1.18" type="github">
   <diagram name="Страница — 1" id="Yas79YYcIOlXWcg4hY2i">
-    <mxGraphModel>
+    <mxGraphModel dx="954" dy="483" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="YEX3lKysdYTvl740qVUS-1" value="&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Пользователь&lt;/span&gt;&lt;/div&gt;&lt;/blockquote&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlActor;align=center;labelPosition=center;verticalLabelPosition=top;verticalAlign=bottom;" vertex="1" parent="1">
+          <mxGeometry x="120" y="230" width="20" height="480" as="geometry" />
+        </mxCell>
+        <mxCell id="YEX3lKysdYTvl740qVUS-2" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="YEX3lKysdYTvl740qVUS-1">
+          <mxGeometry x="10" y="80" width="10" height="400" as="geometry" />
+        </mxCell>
+        <mxCell id="YEX3lKysdYTvl740qVUS-9" value="opt" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;" vertex="1" parent="1">
+          <mxGeometry x="260" y="160" width="540" height="410" as="geometry" />
+        </mxCell>
+        <mxCell id="YEX3lKysdYTvl740qVUS-12" value="Interface" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="314" y="90" width="100" height="580" as="geometry" />
+        </mxCell>
+        <mxCell id="YEX3lKysdYTvl740qVUS-13" value="Backend" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="500" y="90" width="100" height="620" as="geometry" />
+        </mxCell>
+        <mxCell id="YEX3lKysdYTvl740qVUS-15" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="YEX3lKysdYTvl740qVUS-13">
+          <mxGeometry x="40" y="220" width="10" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="YEX3lKysdYTvl740qVUS-39" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="YEX3lKysdYTvl740qVUS-13">
+          <mxGeometry x="40" y="590" width="10" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YEX3lKysdYTvl740qVUS-14" value="DataBase" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="660" y="90" width="100" height="380" as="geometry" />
+        </mxCell>
+        <mxCell id="YEX3lKysdYTvl740qVUS-23" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="YEX3lKysdYTvl740qVUS-14">
+          <mxGeometry x="40" y="220" width="10" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="YEX3lKysdYTvl740qVUS-16" value="отправить файл" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=5;" edge="1" target="YEX3lKysdYTvl740qVUS-15" parent="1" source="YEX3lKysdYTvl740qVUS-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="470" y="205" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YEX3lKysdYTvl740qVUS-18" value="[Если мониторинг процесса установки включен]" style="text;align=center;fontStyle=1;verticalAlign=middle;spacingLeft=3;spacingRight=3;strokeColor=none;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="160" width="80" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="YEX3lKysdYTvl740qVUS-17" value="вернуть сообщение &lt;br&gt;предупреждения" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;exitX=0;exitY=1;exitDx=0;exitDy=-5;" edge="1" source="YEX3lKysdYTvl740qVUS-15" parent="1" target="YEX3lKysdYTvl740qVUS-26">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="470" y="275" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YEX3lKysdYTvl740qVUS-19" value="loop" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;" vertex="1" parent="1">
+          <mxGeometry x="270" y="200" width="520" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="YEX3lKysdYTvl740qVUS-20" value="alt" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;" vertex="1" parent="1">
+          <mxGeometry x="290" y="235" width="480" height="255" as="geometry" />
+        </mxCell>
+        <mxCell id="YEX3lKysdYTvl740qVUS-21" value="[Если есть вредоносный файл]" style="text;align=center;fontStyle=1;verticalAlign=middle;spacingLeft=3;spacingRight=3;strokeColor=none;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;html=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="235" width="80" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="YEX3lKysdYTvl740qVUS-22" value="[Для каждого файла в ожидании загрузки]" style="text;align=center;fontStyle=1;verticalAlign=middle;spacingLeft=3;spacingRight=3;strokeColor=none;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;html=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="200" width="80" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="YEX3lKysdYTvl740qVUS-24" value="найти вредоносный файл" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=5;" edge="1" target="YEX3lKysdYTvl740qVUS-23" parent="1" source="YEX3lKysdYTvl740qVUS-13">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="630" y="285" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YEX3lKysdYTvl740qVUS-25" value="вернуть положительный &lt;br&gt;результат поиска" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;exitX=0;exitY=1;exitDx=0;exitDy=-5;" edge="1" source="YEX3lKysdYTvl740qVUS-23" parent="1" target="YEX3lKysdYTvl740qVUS-13">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="630" y="355" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YEX3lKysdYTvl740qVUS-26" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="350" y="335" width="10" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YEX3lKysdYTvl740qVUS-28" value="вывести сообщение" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;exitX=0;exitY=1;exitDx=0;exitDy=-5;" edge="1" source="YEX3lKysdYTvl740qVUS-26" parent="1" target="YEX3lKysdYTvl740qVUS-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="300" y="395" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YEX3lKysdYTvl740qVUS-32" value="отправить нажатие включить" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;exitX=0;exitY=0;exitDx=0;exitDy=5;exitPerimeter=0;endArrow=none;endFill=0;startArrow=block;startFill=1;verticalAlign=bottom;" edge="1" parent="1" source="YEX3lKysdYTvl740qVUS-29" target="YEX3lKysdYTvl740qVUS-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="150" y="400" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="270" y="515" />
+              <mxPoint x="270" y="515" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YEX3lKysdYTvl740qVUS-29" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="350" y="510" width="10" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="YEX3lKysdYTvl740qVUS-31" value="ввывести статус мониторинга" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;exitX=0;exitY=1;exitDx=0;exitDy=-5;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="140" y="545" as="targetPoint" />
+            <mxPoint x="350" y="545" as="sourcePoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YEX3lKysdYTvl740qVUS-33" value="opt" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;" vertex="1" parent="1">
+          <mxGeometry x="280" y="580" width="520" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="YEX3lKysdYTvl740qVUS-34" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="350" y="620" width="10" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="YEX3lKysdYTvl740qVUS-35" value="отправить нажатие отключить" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;exitX=0;exitY=0;exitDx=0;exitDy=5;exitPerimeter=0;endArrow=none;endFill=0;startArrow=block;startFill=1;verticalAlign=bottom;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="140" y="630" as="targetPoint" />
+            <mxPoint x="350" y="630" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="270" y="630" />
+              <mxPoint x="270" y="630" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YEX3lKysdYTvl740qVUS-36" value="ввывести статус мониторинга" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;exitX=0;exitY=1;exitDx=0;exitDy=-5;" edge="1" parent="1" target="YEX3lKysdYTvl740qVUS-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="180" y="660" as="targetPoint" />
+            <mxPoint x="350" y="660" as="sourcePoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YEX3lKysdYTvl740qVUS-38" value="[Если мониторинг процеса установки отключен]" style="text;align=center;fontStyle=1;verticalAlign=middle;spacingLeft=3;spacingRight=3;strokeColor=none;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="585" width="80" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="YEX3lKysdYTvl740qVUS-40" value="отправить об завершение мониторинга" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=5;" edge="1" target="YEX3lKysdYTvl740qVUS-39" parent="1" source="YEX3lKysdYTvl740qVUS-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="470" y="675" as="sourcePoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
